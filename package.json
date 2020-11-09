@@ -1,7 +1,7 @@
 {
-  "name": "@ant-design/tools",
-  "version": "11.0.5",
-  "description": "tools for ant design",
+  "name": "@gk-rc/tools",
+  "version": "0.0.1",
+  "description": "tools for geek react component.",
   "keywords": [
     "react",
     "tools"
